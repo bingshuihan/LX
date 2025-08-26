@@ -6,7 +6,7 @@ ikun
 
 https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/ikun.js
 
-mobi-api(原小熊猫）
+mobi-api(KUwores）
 
 https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/mobi-api.js
 
@@ -18,5 +18,10 @@ https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yin
 
 https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/梓澄公益音源.js
 
+FreeListen（原小熊猫）
 
+https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/FreeListen.js
 
+至尊
+
+https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/zhizun.js
