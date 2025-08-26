@@ -27,6 +27,9 @@ https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yin
 https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/zhizun.js
 
 MusicDownloader
+
 https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/MusicDownloader.js
+
 monster  
+
 https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/monster.js
