@@ -25,4 +25,4 @@ https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yin
 monster  
 https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/monster.js
 晴天
-https://ghproxy.net/raw.githubusercontent.com/bingshuihan/LX/refs/heads/main/yinyuan/晴天音源_1.1.2.js
+https://github.com/bingshuihan/LX/blob/main/yinyuan/%E6%99%B4%E5%A4%A9%E9%9F%B3%E6%BA%90_1.1.2.js
